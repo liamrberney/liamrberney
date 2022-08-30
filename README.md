@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liamrberney
 - 🌱 I’m currently studying Computer Science at Texas A&M
-- 💞️ I’m looking to find an internship
+- 💞️ I’m looking to find a full time position in tech
 - 📫 How to reach me: liamrberney@gmail.com
 
 <!---
